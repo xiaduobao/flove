@@ -23,5 +23,17 @@
             <version>${mybatis.version}</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.mybatis.generator</groupId>
+            <artifactId>mybatis-generator-maven-plugin</artifactId>
+            <version>${mybatis.version}</version>
+        </dependency>
+
+        <!--<dependency>
+            <groupId>org.mybatis.generator</groupId>
+            <artifactId>mybatis-generator-core</artifactId>
+            <version>${mybatis.version}</version>
+        </dependency>-->
+
     </dependencies>
 </project>
