@@ -10,3 +10,4 @@ devenv
 *.versionsBackup
 *bin
 .DS_Store
+*/*/*.class

@@ -1,6 +1,8 @@
 CREATE DATABASE IF NOT EXISTS moments DEFAULT CHARSET utf8 COLLATE utf8_general_ci;
 use moments;
 
+
+
 朋友圈
 
 1 用户模块
